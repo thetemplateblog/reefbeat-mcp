@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+
+# Local settings written by gui.py
+reefdose-bench.json
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
